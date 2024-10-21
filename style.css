@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    background-color: rgb(238, 215, 185);
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.box {
+    position: relative;
+    top: 100px;
+    width: 80%;
+    height: 100px;
+    background-color: rgb(188, 188, 52);
+}
